@@ -15,8 +15,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container panel panel-info">
-		<h3 class="panel-heading"> Test000 - update1</h3>
+	<div class="container">
+	<h3>기능개발</h3>
 	</div>
 	
 </body>
