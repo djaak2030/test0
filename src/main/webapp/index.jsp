@@ -17,7 +17,7 @@
 <body>
 	<div class="container panel panel-info">
 		<h3 class="panel-heading"> Test000 - update1</h3>
-		<pre>수정</pre>
+		<pre>수정13123</pre>
 	</div>
 	
 </body>
